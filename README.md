@@ -44,3 +44,5 @@ If you would like to contribute, here are some notes and guidlines:
 
 ## License
 PHPExcel is licensed under [LGPL (GNU LESSER GENERAL PUBLIC LICENSE)](https://github.com/PHPOffice/PHPExcel/blob/master/license.md)
+
+## Test by Luke Zhang
